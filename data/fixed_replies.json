@@ -1,0 +1,201 @@
+{
+  "greeting": {
+    "en": [
+      "Hello, thanks for calling Dr. Pushpak Samal's clinic. I'm the clinic's AI assistant, and this call may be recorded to help the doctor. How can I help you today?",
+      "Hi there, you've reached Dr. Pushpak Samal's clinic. I'm the AI assistant, and the call may be recorded so the doctor can follow up. What can I do for you?",
+      "Good day, this is Dr. Pushpak Samal's clinic. I'm an AI assistant, and this call may be recorded to help the doctor. How can I help?"
+    ],
+    "or": [
+      "ନମସ୍କାର, ଡାକ୍ତର ପୁଷ୍ପକ ସାମଲଙ୍କ କ୍ଲିନିକକୁ ସ୍ୱାଗତ। ମୁଁ କ୍ଲିନିକର AI ସହାୟକ, ଏବଂ ଡାକ୍ତରଙ୍କୁ ସାହାଯ୍ୟ କରିବା ପାଇଁ ଏହି କଲ୍ ରେକର୍ଡ ହୋଇପାରେ। ମୁଁ ଆପଣଙ୍କୁ କିପରି ସାହାଯ୍ୟ କରିପାରିବି? You can also speak in English or Hindi.",
+      "ନମସ୍କାର, ଏହା ଡାକ୍ତର ପୁଷ୍ପକ ସାମଲଙ୍କ କ୍ଲିନିକ୍। ମୁଁ ଏକ AI ସହାୟକ, ଆଉ ଏହି କଲ୍ ରେକର୍ଡ ହୋଇପାରେ। ଆପଣଙ୍କୁ କିପରି ସାହାଯ୍ୟ କରିପାରିବି? You can also speak in English or Hindi."
+    ],
+    "hi": [
+      "नमस्ते, डॉक्टर पुष्पक सामल के क्लिनिक में आपका स्वागत है। मैं क्लिनिक की AI सहायक हूँ, और डॉक्टर की मदद के लिए यह कॉल रिकॉर्ड हो सकती है। मैं आपकी कैसे मदद कर सकती हूँ? You can also speak in English or Odia.",
+      "नमस्ते, यह डॉक्टर पुष्पक सामल का क्लिनिक है। मैं एक AI सहायक हूँ, और यह कॉल रिकॉर्ड हो सकती है। बताइए, मैं क्या मदद करूँ? You can also speak in English or Odia."
+    ]
+  },
+  "ask_identity": {
+    "en": [
+      "Sure, I can help with that. First, may I have your full name and date of birth, please?",
+      "Of course. Before we start, could you tell me your full name and date of birth?",
+      "Happy to help. To begin, may I have your full name and your date of birth?"
+    ],
+    "or": [
+      "ଠିକ୍ ଅଛି, ମୁଁ ସାହାଯ୍ୟ କରିବି। ପ୍ରଥମେ ଆପଣଙ୍କ ପୂରା ନାମ ଏବଂ ଜନ୍ମ ତାରିଖ କହିବେ?",
+      "ନିଶ୍ଚୟ। ଆରମ୍ଭ କରିବା ପୂର୍ବରୁ, ଆପଣଙ୍କ ପୂରା ନାମ ଏବଂ ଜନ୍ମ ତାରିଖ କହିବେ ଦୟାକରି?"
+    ],
+    "hi": [
+      "जी, मैं मदद करूँगी। पहले, कृपया अपना पूरा नाम और जन्म तारीख बताइए।",
+      "ज़रूर। शुरू करने से पहले, क्या आप अपना पूरा नाम और जन्म तारीख बता सकते हैं?"
+    ]
+  },
+  "ask_name": {
+    "en": [
+      "Got it. And could I have your full name, please?",
+      "Thanks. What's your full name?",
+      "Okay. May I have your full name as well?"
+    ],
+    "or": [
+      "ଠିକ୍ ଅଛି। ଆପଣଙ୍କ ପୂରା ନାମ କହିବେ?",
+      "ଧନ୍ୟବାଦ। ଆପଣଙ୍କ ନାମ କଣ?"
+    ],
+    "hi": [
+      "ठीक है। आपका पूरा नाम क्या है?",
+      "धन्यवाद। कृपया अपना पूरा नाम बताइए।"
+    ]
+  },
+  "ask_dob": {
+    "en": [
+      "Got it. And what's your date of birth?",
+      "Thanks. Could you also tell me your date of birth?",
+      "Okay. And your date of birth, please?"
+    ],
+    "or": [
+      "ଠିକ୍ ଅଛି। ଆପଣଙ୍କ ଜନ୍ମ ତାରିଖ କଣ?",
+      "ଧନ୍ୟବାଦ। ଆପଣଙ୍କ ଜନ୍ମ ତାରିଖ ମଧ୍ୟ କହିବେ?"
+    ],
+    "hi": [
+      "ठीक है। आपकी जन्म तारीख क्या है?",
+      "धन्यवाद। कृपया अपनी जन्म तारीख भी बताइए।"
+    ]
+  },
+  "verified": {
+    "en": [
+      "Thanks, {first_name}, you're all set. What can I help you with today?",
+      "Perfect, {first_name}, I've got you. Tell me what's going on.",
+      "Great, thank you {first_name}. How can I help you today?"
+    ],
+    "or": [
+      "ଧନ୍ୟବାଦ {first_name}, ଆପଣଙ୍କୁ ଚିହ୍ନିଲି। କହନ୍ତୁ, ମୁଁ କିପରି ସାହାଯ୍ୟ କରିପାରିବି?",
+      "ବହୁତ ଭଲ {first_name}। ଏବେ କହନ୍ତୁ, ଆପଣଙ୍କୁ କଣ ସମସ୍ୟା ହେଉଛି?"
+    ],
+    "hi": [
+      "धन्यवाद {first_name}, मैंने आपको पहचान लिया। बताइए, मैं कैसे मदद कर सकती हूँ?",
+      "बहुत अच्छा {first_name}। अब बताइए, आपको क्या परेशानी है?"
+    ]
+  },
+  "verify_retry": {
+    "en": [
+      "Sorry, I couldn't match those details. Could you say your full name and date of birth once more, slowly?",
+      "Hmm, that doesn't match what I have. Could you repeat your full name and date of birth for me?",
+      "I'm sorry, I couldn't find a match. Could you try your full name and date of birth again?"
+    ],
+    "or": [
+      "ଦୁଃଖିତ, ମୁଁ ଏହି ବିବରଣୀ ମିଳାଇପାରିଲି ନାହିଁ। ଦୟାକରି ଆପଣଙ୍କ ପୂରା ନାମ ଏବଂ ଜନ୍ମ ତାରିଖ ଧୀରେ ଧୀରେ ଆଉ ଥରେ କହିବେ?",
+      "ଏହା ମୋ ରେକର୍ଡ ସହ ମେଳ ଖାଉନାହିଁ। ଆପଣଙ୍କ ପୂରା ନାମ ଏବଂ ଜନ୍ମ ତାରିଖ ପୁଣି କହିବେ?"
+    ],
+    "hi": [
+      "माफ़ कीजिए, ये जानकारी मेल नहीं खाई। कृपया अपना पूरा नाम और जन्म तारीख धीरे-धीरे एक बार फिर बताइए।",
+      "हम्म, यह मेरे रिकॉर्ड से मेल नहीं खा रहा। क्या आप पूरा नाम और जन्म तारीख दोबारा बता सकते हैं?"
+    ]
+  },
+  "verify_failed": {
+    "en": [
+      "I'm sorry, I still can't verify your details, so I can only share general clinic information. I can ask the doctor's team to call you back if you'd like.",
+      "I'm afraid I can't confirm your details, so I can't discuss your records. I can share general clinic information, or have the team call you back.",
+      "Sorry about that. Without a match I can only help with general information. Would you like the doctor's team to call you back?"
+    ],
+    "or": [
+      "ଦୁଃଖିତ, ମୁଁ ଆପଣଙ୍କ ବିବରଣୀ ଯାଞ୍ଚ କରିପାରିଲି ନାହିଁ, ତେଣୁ କେବଳ କ୍ଲିନିକର ସାଧାରଣ ସୂଚନା ଦେଇପାରିବି। ଆପଣ ଚାହିଁଲେ ଡାକ୍ତରଙ୍କ ଟିମ୍ ଆପଣଙ୍କୁ ଫେରି କଲ୍ କରିବେ।"
+    ],
+    "hi": [
+      "माफ़ कीजिए, मैं आपकी जानकारी की पुष्टि नहीं कर पाई, इसलिए सिर्फ़ क्लिनिक की सामान्य जानकारी दे सकती हूँ। आप चाहें तो डॉक्टर की टीम आपको वापस कॉल करेगी।"
+    ]
+  },
+  "not_understood": {
+    "en": [
+      "Sorry, I didn't quite catch that. Could you say it once more?",
+      "I'm sorry, the line wasn't clear. Could you repeat that for me?",
+      "Sorry about that, I missed it. Could you please say that again?"
+    ],
+    "or": [
+      "ଦୁଃଖିତ, ମୁଁ ଠିକ୍ ଶୁଣିପାରିଲି ନାହିଁ। ଦୟାକରି ଆଉ ଥରେ କହିବେ?",
+      "ଦୁଃଖିତ, ଲାଇନ୍ ସ୍ପଷ୍ଟ ନଥିଲା। ଆପଣ ଏହାକୁ ପୁଣି କହିବେ?"
+    ],
+    "hi": [
+      "माफ़ कीजिए, मैं ठीक से सुन नहीं पाई। कृपया एक बार फिर कहिए।",
+      "क्षमा करें, लाइन साफ़ नहीं थी। क्या आप दोबारा बता सकते हैं?"
+    ]
+  },
+  "medical_advice_decline": {
+    "en": [
+      "I'm not able to give medical advice, but the doctor can guide you properly after examining you. I'll note your question for him.",
+      "That's something only the doctor can answer, after seeing you in person. I'll pass your question on to him.",
+      "I wish I could help with that, but I can't give medical advice. The doctor will go through it with you after examination, and I'll note your question for him."
+    ],
+    "or": [
+      "ମୁଁ ଡାକ୍ତରୀ ପରାମର୍ଶ ଦେଇପାରିବି ନାହିଁ, କିନ୍ତୁ ଡାକ୍ତର ଆପଣଙ୍କୁ ପରୀକ୍ଷା କରିବା ପରେ ସଠିକ୍ ପରାମର୍ଶ ଦେବେ। ମୁଁ ଆପଣଙ୍କ ପ୍ରଶ୍ନ ତାଙ୍କ ପାଇଁ ନୋଟ୍ କରିଦେଉଛି।",
+      "ଏହା କେବଳ ଡାକ୍ତର ହିଁ କହିପାରିବେ, ଆପଣଙ୍କୁ ସାମନାସାମନି ଦେଖିବା ପରେ। ମୁଁ ଆପଣଙ୍କ ପ୍ରଶ୍ନ ତାଙ୍କୁ ଜଣାଇ ଦେବି।"
+    ],
+    "hi": [
+      "मैं चिकित्सा सलाह नहीं दे सकती, लेकिन डॉक्टर आपकी जाँच करने के बाद सही सलाह देंगे। मैं आपका सवाल उनके लिए नोट कर लेती हूँ।",
+      "यह बात सिर्फ़ डॉक्टर ही बता सकते हैं, आपको देखने के बाद। मैं आपका सवाल उन्हें बता दूँगी।"
+    ]
+  },
+  "emergency_transfer": {
+    "en": [
+      "I'm sorry you're going through this. This sounds urgent, so please stay on the line while I connect you to the doctor.",
+      "That sounds serious, so please stay with me while I connect you to the doctor right away.",
+      "I understand, and I want the doctor to hear this now. Please hold on while I connect you."
+    ],
+    "or": [
+      "ଆପଣ ଯେଉଁ କଷ୍ଟ ପାଉଛନ୍ତି ସେଥିପାଇଁ ମୁଁ ଦୁଃଖିତ। ଏହା ଜରୁରୀ ମନେ ହେଉଛି, ତେଣୁ ଦୟାକରି ଲାଇନରେ ରୁହନ୍ତୁ, ମୁଁ ଆପଣଙ୍କୁ ଡାକ୍ତରଙ୍କ ସହ ଯୋଡ଼ୁଛି।",
+      "ଏହା ଗମ୍ଭୀର ମନେ ହେଉଛି, ତେଣୁ ଲାଇନରେ ରୁହନ୍ତୁ, ମୁଁ ତୁରନ୍ତ ଆପଣଙ୍କୁ ଡାକ୍ତରଙ୍କ ସହ ଯୋଡ଼ୁଛି।"
+    ],
+    "hi": [
+      "आप जिस तकलीफ़ में हैं, उसके लिए मुझे खेद है। यह ज़रूरी लग रहा है, इसलिए कृपया लाइन पर बने रहिए, मैं आपको डॉक्टर से जोड़ रही हूँ।",
+      "यह गंभीर लग रहा है, इसलिए कृपया रुकिए, मैं अभी आपको डॉक्टर से जोड़ती हूँ।"
+    ]
+  },
+  "transfer_failed": {
+    "en": [
+      "The doctor is busy right now, but I've noted everything and he will call you back shortly. If this feels life-threatening, please contact local emergency services.",
+      "I couldn't reach the doctor just now. I've passed on your details, and he will call you back as soon as he's free. If it gets worse, please contact emergency services.",
+      "He's tied up at the moment, but I've sent him your details and he'll call you back shortly. If you feel it's life-threatening, please call local emergency services."
+    ],
+    "or": [
+      "ଡାକ୍ତର ଏବେ ବ୍ୟସ୍ତ ଅଛନ୍ତି, କିନ୍ତୁ ମୁଁ ସବୁ ନୋଟ୍ କରିଦେଇଛି ଏବଂ ସେ ଶୀଘ୍ର ଆପଣଙ୍କୁ କଲ୍ କରିବେ। ଯଦି ଏହା ପ୍ରାଣଘାତକ ମନେ ହେଉଛି, ଦୟାକରି ସ୍ଥାନୀୟ ଜରୁରୀକାଳୀନ ସେବାକୁ ଫୋନ୍ କରନ୍ତୁ।"
+    ],
+    "hi": [
+      "डॉक्टर अभी व्यस्त हैं, लेकिन मैंने सब नोट कर लिया है और वे जल्द ही आपको कॉल करेंगे। अगर यह जानलेवा लग रहा है, तो कृपया स्थानीय आपातकालीन सेवा को कॉल करें।"
+    ]
+  },
+  "error": {
+    "en": [
+      "Sorry, I'm having a little trouble right now. Could you please call again in a moment?",
+      "I'm sorry, something went wrong on my side. Please try calling again shortly.",
+      "Apologies, I'm having technical trouble. Please call again in a few minutes."
+    ],
+    "or": ["ଦୁଃଖିତ, ମୋର ଏବେ ଟିକେ ଅସୁବିଧା ହେଉଛି। ଦୟାକରି କିଛି ସମୟ ପରେ ପୁଣି କଲ୍ କରନ୍ତୁ।"],
+    "hi": ["माफ़ कीजिए, मुझे अभी थोड़ी समस्या हो रही है। कृपया थोड़ी देर बाद फिर कॉल करें।"]
+  },
+  "filler": {
+    "en": ["I see.", "Okay.", "Mm-hmm, got it."],
+    "or": ["ହଁ, ବୁଝିଲି।", "ଆଚ୍ଛା, ଠିକ୍ ଅଛି।", "ଆଚ୍ଛା।"],
+    "hi": ["जी, समझ गई।", "ठीक है।", "हम्म, जी।"]
+  },
+  "callback_saved": {
+    "en": [
+      "Thank you, I've noted that for the doctor, and his team will call you back shortly.",
+      "Got it. I've passed this on to the doctor's team, and they'll call you back soon.",
+      "All noted. The doctor's team will get back to you shortly."
+    ],
+    "or": [
+      "ଧନ୍ୟବାଦ, ମୁଁ ଏହା ଡାକ୍ତରଙ୍କ ପାଇଁ ନୋଟ୍ କରିଦେଲି, ଏବଂ ତାଙ୍କ ଟିମ୍ ଶୀଘ୍ର ଆପଣଙ୍କୁ ଫୋନ୍ କରିବେ।",
+      "ଠିକ୍ ଅଛି, ମୁଁ ଏହା ଡାକ୍ତରଙ୍କ ଟିମ୍‌କୁ ଜଣାଇ ଦେଲି। ସେମାନେ ଶୀଘ୍ର ଆପଣଙ୍କୁ କଲ୍ କରିବେ।"
+    ],
+    "hi": [
+      "धन्यवाद, मैंने यह डॉक्टर के लिए नोट कर लिया है, और उनकी टीम जल्द ही आपको कॉल करेगी।",
+      "ठीक है, मैंने यह डॉक्टर की टीम तक पहुँचा दिया है। वे जल्द ही आपको वापस कॉल करेंगे।"
+    ]
+  },
+  "callback_failed": {
+    "en": [
+      "I'm sorry, I couldn't save that just now, but the clinic will follow up with you.",
+      "Sorry, something went wrong while saving that, but the clinic will follow up with you.",
+      "I couldn't save that right now, but the doctor's team will follow up with you."
+    ],
+    "or": ["ଦୁଃଖିତ, ମୁଁ ଏବେ ଏହା ସେଭ୍ କରିପାରିଲି ନାହିଁ, କିନ୍ତୁ କ୍ଲିନିକ୍ ଆପଣଙ୍କ ସହ ଯୋଗାଯୋଗ କରିବ।"],
+    "hi": ["क्षमा करें, मैं अभी इसे सेव नहीं कर सकी, लेकिन क्लिनिक आपसे संपर्क करेगा।"]
+  }
+}

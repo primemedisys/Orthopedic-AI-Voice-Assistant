@@ -1,0 +1,18 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-multipart
+asyncpg
+sqlalchemy>=2.0
+psycopg[binary,pool]
+alembic
+phonenumbers
+httpx
+plivo
+twilio
+websockets
+audioop-lts; python_version >= "3.13"
+langgraph
+langgraph-checkpoint-postgres
+langchain-core
+langchain-openai

@@ -1,0 +1,11 @@
+{
+  "_note": "PLACEHOLDER. The doctor must review and approve these lists.",
+  "emergency": [
+    "cant walk", "cannot walk", "cant stand", "cant put weight",
+    "bone sticking out", "heavy bleeding", "bleeding a lot",
+    "numb", "cant feel my leg", "cant move my leg", "deformed", "road accident"
+  ],
+  "urgent": [
+    "getting worse", "pain is worse", "new swelling", "swollen", "fever after surgery", "stitches"
+  ]
+}

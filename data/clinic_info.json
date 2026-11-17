@@ -1,0 +1,45 @@
+{
+  "_note": "DEMO DATA. Only the address and the ACL/MCL cost are real. The doctor must approve everything else. Keys starting with _ are hidden from the bot.",
+  "doctor_name": "Dr. Pushpak Samal",
+  "specialty": "Orthopedic specialist (spine, bone, joint and sports injuries)",
+  "address": "B13, HIG Duplex, BDA Colony, RBI Colony, Baramunda, Bhubaneswar, Odisha 751003",
+  "timings": "Monday to Saturday, 10 AM to 6 PM. Closed on Sundays.",
+  "fees": {
+    "consultation": "Around 500 rupees (demo, please confirm)",
+    "follow_up_visit": "Around 300 rupees within 15 days of the first visit (demo, please confirm)"
+  },
+  "procedures": [
+    {
+      "name": "ACL and MCL knee ligament surgery",
+      "usual_cost": "Usually around 2.5 lakh rupees",
+      "note": "The final cost depends on the case, and the doctor confirms it after examining the patient."
+    },
+    {
+      "name": "Other surgeries",
+      "usual_cost": "The cost depends on the case.",
+      "note": "The doctor explains it after examination."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to bring old reports?",
+      "a": "Yes, please bring all previous reports, X-rays and scans, and any current medicine list."
+    },
+    {
+      "q": "How do I book an appointment?",
+      "a": "I can note your details, and the clinic team will call you back to confirm a time."
+    },
+    {
+      "q": "Do I need an appointment before visiting?",
+      "a": "An appointment is recommended so that you don't have to wait. The clinic team can confirm a slot for you."
+    },
+    {
+      "q": "Where is the clinic?",
+      "a": "It is at B13, HIG Duplex, BDA Colony, RBI Colony, Baramunda, Bhubaneswar."
+    },
+    {
+      "q": "Does the clinic accept insurance?",
+      "a": "I don't have that information, so I'll ask the clinic team to call you with the details."
+    }
+  ]
+}
